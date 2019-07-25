@@ -5,9 +5,9 @@
   <subtitle>天道酬勤</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.tcbcm.cn/"/>
+  <link href="https://www.xdpdp.cn/"/>
   <updated>2019-07-25T11:15:13.425Z</updated>
-  <id>https://www.tcbcm.cn/</id>
+  <id>https://www.xdpdp.cn/</id>
   
   <author>
     <name>行动派大鹏</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Spring Boot 2.0 都更新了什么</title>
-    <link href="https://www.tcbcm.cn/posts/7014c3e5/"/>
-    <id>https://www.tcbcm.cn/posts/7014c3e5/</id>
+    <link href="https://www.xdpdp.cn/posts/7014c3e5/"/>
+    <id>https://www.xdpdp.cn/posts/7014c3e5/</id>
     <published>2019-01-01T12:23:19.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -35,17 +35,17 @@
     
     </summary>
     
-      <category term="微服务" scheme="https://www.tcbcm.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="https://www.xdpdp.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
     
-      <category term="Spring Boot" scheme="https://www.tcbcm.cn/tags/Spring-Boot/"/>
+      <category term="Spring Boot" scheme="https://www.xdpdp.cn/tags/Spring-Boot/"/>
     
   </entry>
   
   <entry>
     <title>Spring Boot 产生的背景和它的设计理念</title>
-    <link href="https://www.tcbcm.cn/posts/b9bdaf23/"/>
-    <id>https://www.tcbcm.cn/posts/b9bdaf23/</id>
+    <link href="https://www.xdpdp.cn/posts/b9bdaf23/"/>
+    <id>https://www.xdpdp.cn/posts/b9bdaf23/</id>
     <published>2019-01-01T02:12:15.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -62,17 +62,17 @@
     
     </summary>
     
-      <category term="微服务" scheme="https://www.tcbcm.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="https://www.xdpdp.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
     
-      <category term="Spring Boot" scheme="https://www.tcbcm.cn/tags/Spring-Boot/"/>
+      <category term="Spring Boot" scheme="https://www.xdpdp.cn/tags/Spring-Boot/"/>
     
   </entry>
   
   <entry>
     <title>Spring Boot 2.0：Spring Boot 介绍</title>
-    <link href="https://www.tcbcm.cn/posts/4c9c42f2/"/>
-    <id>https://www.tcbcm.cn/posts/4c9c42f2/</id>
+    <link href="https://www.xdpdp.cn/posts/4c9c42f2/"/>
+    <id>https://www.xdpdp.cn/posts/4c9c42f2/</id>
     <published>2019-01-01T00:30:30.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -88,17 +88,17 @@
     
     </summary>
     
-      <category term="微服务" scheme="https://www.tcbcm.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="https://www.xdpdp.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
     
-      <category term="Spring Boot" scheme="https://www.tcbcm.cn/tags/Spring-Boot/"/>
+      <category term="Spring Boot" scheme="https://www.xdpdp.cn/tags/Spring-Boot/"/>
     
   </entry>
   
   <entry>
     <title>Golang (十一)：变量作用域</title>
-    <link href="https://www.tcbcm.cn/posts/4d7b4c59/"/>
-    <id>https://www.tcbcm.cn/posts/4d7b4c59/</id>
+    <link href="https://www.xdpdp.cn/posts/4d7b4c59/"/>
+    <id>https://www.xdpdp.cn/posts/4d7b4c59/</id>
     <published>2018-11-13T01:13:13.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -115,17 +115,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (十)：函数</title>
-    <link href="https://www.tcbcm.cn/posts/2b3cad6a/"/>
-    <id>https://www.tcbcm.cn/posts/2b3cad6a/</id>
+    <link href="https://www.xdpdp.cn/posts/2b3cad6a/"/>
+    <id>https://www.xdpdp.cn/posts/2b3cad6a/</id>
     <published>2018-11-12T00:13:12.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -145,17 +145,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (九)：循环语句</title>
-    <link href="https://www.tcbcm.cn/posts/9fd133/"/>
-    <id>https://www.tcbcm.cn/posts/9fd133/</id>
+    <link href="https://www.xdpdp.cn/posts/9fd133/"/>
+    <id>https://www.xdpdp.cn/posts/9fd133/</id>
     <published>2018-11-11T01:13:11.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -174,17 +174,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (八)：条件语句</title>
-    <link href="https://www.tcbcm.cn/posts/b041a8d6/"/>
-    <id>https://www.tcbcm.cn/posts/b041a8d6/</id>
+    <link href="https://www.xdpdp.cn/posts/b041a8d6/"/>
+    <id>https://www.xdpdp.cn/posts/b041a8d6/</id>
     <published>2018-11-10T02:23:01.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -202,17 +202,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (七)：运算符</title>
-    <link href="https://www.tcbcm.cn/posts/860e6ae1/"/>
-    <id>https://www.tcbcm.cn/posts/860e6ae1/</id>
+    <link href="https://www.xdpdp.cn/posts/860e6ae1/"/>
+    <id>https://www.xdpdp.cn/posts/860e6ae1/</id>
     <published>2018-11-09T04:13:09.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -229,17 +229,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (六)：常量</title>
-    <link href="https://www.tcbcm.cn/posts/70d70332/"/>
-    <id>https://www.tcbcm.cn/posts/70d70332/</id>
+    <link href="https://www.xdpdp.cn/posts/70d70332/"/>
+    <id>https://www.xdpdp.cn/posts/70d70332/</id>
     <published>2018-11-08T11:13:08.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -258,17 +258,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (五)：变量</title>
-    <link href="https://www.tcbcm.cn/posts/2be8cdf3/"/>
-    <id>https://www.tcbcm.cn/posts/2be8cdf3/</id>
+    <link href="https://www.xdpdp.cn/posts/2be8cdf3/"/>
+    <id>https://www.xdpdp.cn/posts/2be8cdf3/</id>
     <published>2018-11-07T09:13:07.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -287,17 +287,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (四)：数据类型</title>
-    <link href="https://www.tcbcm.cn/posts/210c5b2c/"/>
-    <id>https://www.tcbcm.cn/posts/210c5b2c/</id>
+    <link href="https://www.xdpdp.cn/posts/210c5b2c/"/>
+    <id>https://www.xdpdp.cn/posts/210c5b2c/</id>
     <published>2018-11-06T10:13:06.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -315,17 +315,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (三)：基础语法</title>
-    <link href="https://www.tcbcm.cn/posts/a5e7c61a/"/>
-    <id>https://www.tcbcm.cn/posts/a5e7c61a/</id>
+    <link href="https://www.xdpdp.cn/posts/a5e7c61a/"/>
+    <id>https://www.xdpdp.cn/posts/a5e7c61a/</id>
     <published>2018-11-05T14:13:03.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -342,17 +342,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (二)：结构</title>
-    <link href="https://www.tcbcm.cn/posts/f63be79c/"/>
-    <id>https://www.tcbcm.cn/posts/f63be79c/</id>
+    <link href="https://www.xdpdp.cn/posts/f63be79c/"/>
+    <id>https://www.xdpdp.cn/posts/f63be79c/</id>
     <published>2018-11-04T14:13:02.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -369,17 +369,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>Golang (一)：基础知识</title>
-    <link href="https://www.tcbcm.cn/posts/39c551f2/"/>
-    <id>https://www.tcbcm.cn/posts/39c551f2/</id>
+    <link href="https://www.xdpdp.cn/posts/39c551f2/"/>
+    <id>https://www.xdpdp.cn/posts/39c551f2/</id>
     <published>2018-11-03T13:13:01.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -396,17 +396,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+      <category term="Golang" scheme="https://www.xdpdp.cn/tags/Golang/"/>
     
   </entry>
   
   <entry>
     <title>2018年，新的一年，努力工作，快乐生活。</title>
-    <link href="https://www.tcbcm.cn/posts/8f3dfe1b/"/>
-    <id>https://www.tcbcm.cn/posts/8f3dfe1b/</id>
+    <link href="https://www.xdpdp.cn/posts/8f3dfe1b/"/>
+    <id>https://www.xdpdp.cn/posts/8f3dfe1b/</id>
     <published>2018-01-01T00:00:08.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -424,15 +424,15 @@
     
     </summary>
     
-      <category term="悦读时光" scheme="https://www.tcbcm.cn/categories/%E6%82%A6%E8%AF%BB%E6%97%B6%E5%85%89/"/>
+      <category term="悦读时光" scheme="https://www.xdpdp.cn/categories/%E6%82%A6%E8%AF%BB%E6%97%B6%E5%85%89/"/>
     
     
   </entry>
   
   <entry>
     <title>JavaCC详解 SQL解析器</title>
-    <link href="https://www.tcbcm.cn/posts/fd4b9af6/"/>
-    <id>https://www.tcbcm.cn/posts/fd4b9af6/</id>
+    <link href="https://www.xdpdp.cn/posts/fd4b9af6/"/>
+    <id>https://www.xdpdp.cn/posts/fd4b9af6/</id>
     <published>2017-03-21T05:05:00.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -449,17 +449,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Java" scheme="https://www.tcbcm.cn/tags/Java/"/>
+      <category term="Java" scheme="https://www.xdpdp.cn/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>https时代来了，你却还一无所知？</title>
-    <link href="https://www.tcbcm.cn/posts/6c03e1a0/"/>
-    <id>https://www.tcbcm.cn/posts/6c03e1a0/</id>
+    <link href="https://www.xdpdp.cn/posts/6c03e1a0/"/>
+    <id>https://www.xdpdp.cn/posts/6c03e1a0/</id>
     <published>2017-03-17T12:30:00.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -477,15 +477,15 @@
     
     </summary>
     
-      <category term="前端技术" scheme="https://www.tcbcm.cn/categories/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="前端技术" scheme="https://www.xdpdp.cn/categories/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
   
   <entry>
     <title>区块链到底是什么？</title>
-    <link href="https://www.tcbcm.cn/posts/804ba325/"/>
-    <id>https://www.tcbcm.cn/posts/804ba325/</id>
+    <link href="https://www.xdpdp.cn/posts/804ba325/"/>
+    <id>https://www.xdpdp.cn/posts/804ba325/</id>
     <published>2017-01-02T23:13:01.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -501,17 +501,17 @@
     
     </summary>
     
-      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+      <category term="后端技术" scheme="https://www.xdpdp.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="区块链" scheme="https://www.tcbcm.cn/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+      <category term="区块链" scheme="https://www.xdpdp.cn/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
     
   </entry>
   
   <entry>
     <title>Hadoop中HDFS文件下载</title>
-    <link href="https://www.tcbcm.cn/posts/f32ab55d/"/>
-    <id>https://www.tcbcm.cn/posts/f32ab55d/</id>
+    <link href="https://www.xdpdp.cn/posts/f32ab55d/"/>
+    <id>https://www.xdpdp.cn/posts/f32ab55d/</id>
     <published>2016-10-19T12:30:00.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -527,17 +527,17 @@
     
     </summary>
     
-      <category term="大数据" scheme="https://www.tcbcm.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+      <category term="大数据" scheme="https://www.xdpdp.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-      <category term="Hadoop" scheme="https://www.tcbcm.cn/tags/Hadoop/"/>
+      <category term="Hadoop" scheme="https://www.xdpdp.cn/tags/Hadoop/"/>
     
   </entry>
   
   <entry>
     <title>Hadoop 生态圈</title>
-    <link href="https://www.tcbcm.cn/posts/44e50408/"/>
-    <id>https://www.tcbcm.cn/posts/44e50408/</id>
+    <link href="https://www.xdpdp.cn/posts/44e50408/"/>
+    <id>https://www.xdpdp.cn/posts/44e50408/</id>
     <published>2016-08-10T12:30:00.000Z</published>
     <updated>2019-07-25T11:15:13.425Z</updated>
     
@@ -553,10 +553,10 @@
     
     </summary>
     
-      <category term="大数据" scheme="https://www.tcbcm.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+      <category term="大数据" scheme="https://www.xdpdp.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-      <category term="Hadoop" scheme="https://www.tcbcm.cn/tags/Hadoop/"/>
+      <category term="Hadoop" scheme="https://www.xdpdp.cn/tags/Hadoop/"/>
     
   </entry>
   
