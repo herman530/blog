@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>行动派大鹏</title>
+  
+  <subtitle>天道酬勤</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.tcbcm.cn/"/>
+  <updated>2019-07-25T11:15:13.425Z</updated>
+  <id>https://www.tcbcm.cn/</id>
+  
+  <author>
+    <name>行动派大鹏</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spring Boot 2.0 都更新了什么</title>
+    <link href="https://www.tcbcm.cn/posts/7014c3e5/"/>
+    <id>https://www.tcbcm.cn/posts/7014c3e5/</id>
+    <published>2019-01-01T12:23:19.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2018 年 3 月 1 号 Spring Boot 2.0.0.RELEASE 正式发布，这是 Spring Boot 1.0 发布 4 年之后第一次重大修订，因此有多新功能和特性值得关注！在 Spring Boot 官方博客中我们了解到：Spring Boot 2.0
+        
+      
+    
+    </summary>
+    
+      <category term="微服务" scheme="https://www.tcbcm.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+    
+      <category term="Spring Boot" scheme="https://www.tcbcm.cn/tags/Spring-Boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring Boot 产生的背景和它的设计理念</title>
+    <link href="https://www.tcbcm.cn/posts/b9bdaf23/"/>
+    <id>https://www.tcbcm.cn/posts/b9bdaf23/</id>
+    <published>2019-01-01T02:12:15.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;要了解 Spring Boot 产生的背景，我们就必须要先了解一下 Spring 的发展史，不仅因为 Spring Boot 来源于 Spring 体系，而且 Spring Boot 的诞生和 Spring 框架的发展息息相关。&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="微服务" scheme="https://www.tcbcm.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+    
+      <category term="Spring Boot" scheme="https://www.tcbcm.cn/tags/Spring-Boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring Boot 2.0：Spring Boot 介绍</title>
+    <link href="https://www.tcbcm.cn/posts/4c9c42f2/"/>
+    <id>https://www.tcbcm.cn/posts/4c9c42f2/</id>
+    <published>2019-01-01T00:30:30.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;Spring-Boot-介绍&quot;&gt;&lt;a href=&quot;#Spring-Boot-介绍&quot; class=&quot;headerlink&quot; title=&quot;Spring Boot 介绍&quot;&gt;&lt;/a&gt;Spring Boot 介绍&lt;/h3&gt;&lt;p&gt;Spring Boot 是由
+        
+      
+    
+    </summary>
+    
+      <category term="微服务" scheme="https://www.tcbcm.cn/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+    
+      <category term="Spring Boot" scheme="https://www.tcbcm.cn/tags/Spring-Boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (十一)：变量作用域</title>
+    <link href="https://www.tcbcm.cn/posts/4d7b4c59/"/>
+    <id>https://www.tcbcm.cn/posts/4d7b4c59/</id>
+    <published>2018-11-13T01:13:13.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;作用域为已声明标识符所表示的常量、类型、变量、函数或包在源代码中的作用范围。&lt;/p&gt;
+&lt;p&gt;Go
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (十)：函数</title>
+    <link href="https://www.tcbcm.cn/posts/2b3cad6a/"/>
+    <id>https://www.tcbcm.cn/posts/2b3cad6a/</id>
+    <published>2018-11-12T00:13:12.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;函数是基本的代码块，用于执行一个任务。&lt;/p&gt;
+&lt;p&gt;Go 语言最少有个 main() 函数。&lt;/p&gt;
+&lt;p&gt;你可以通过函数来划分不同功能，逻辑上每个函数执行的是指定的任务。&lt;/p&gt;
+&lt;p&gt;函数声明告诉了编译器函数的名称，返回类型，和参数。&lt;/p&gt;
+&lt;p&gt;Go
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (九)：循环语句</title>
+    <link href="https://www.tcbcm.cn/posts/9fd133/"/>
+    <id>https://www.tcbcm.cn/posts/9fd133/</id>
+    <published>2018-11-11T01:13:11.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在不少实际问题中有许多具有规律性的重复操作，因此在程序中就需要重复执行某些语句。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/xh1.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;以下为大多编程语言循环程序的流程图：&lt;/p&gt;
+&lt;p&gt;Go
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (八)：条件语句</title>
+    <link href="https://www.tcbcm.cn/posts/b041a8d6/"/>
+    <id>https://www.tcbcm.cn/posts/b041a8d6/</id>
+    <published>2018-11-10T02:23:01.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;条件语句需要开发者通过指定一个或多个条件，并通过测试条件是否为 true 来决定是否执行指定语句，并在条件为 false 的情况在执行另外的语句。&lt;/p&gt;
+&lt;p&gt;下图展示了程序语言中条件语句的结构：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/if1.jpg&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (七)：运算符</title>
+    <link href="https://www.tcbcm.cn/posts/860e6ae1/"/>
+    <id>https://www.tcbcm.cn/posts/860e6ae1/</id>
+    <published>2018-11-09T04:13:09.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;运算符用于在程序运行时执行数学或逻辑运算。&lt;/p&gt;
+&lt;p&gt;Go
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (六)：常量</title>
+    <link href="https://www.tcbcm.cn/posts/70d70332/"/>
+    <id>https://www.tcbcm.cn/posts/70d70332/</id>
+    <published>2018-11-08T11:13:08.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;常量是一个简单值的标识符，在程序运行时，不会被修改的量。&lt;/p&gt;
+&lt;p&gt;常量中的数据类型只可以是布尔型、数字型（整数型、浮点型和复数）和字符串型。&lt;/p&gt;
+&lt;p&gt;常量的定义格式：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;const identifier [type] =
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (五)：变量</title>
+    <link href="https://www.tcbcm.cn/posts/2be8cdf3/"/>
+    <id>https://www.tcbcm.cn/posts/2be8cdf3/</id>
+    <published>2018-11-07T09:13:07.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;变量来源于数学，是计算机语言中能储存计算结果或能表示值抽象概念。变量可以通过变量名访问。&lt;/p&gt;
+&lt;p&gt;Go 语言变量名由字母、数字、下划线组成，其中首个字母不能为数字。&lt;/p&gt;
+&lt;p&gt;声明变量的一般形式是使用 var 关键字：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;var
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (四)：数据类型</title>
+    <link href="https://www.tcbcm.cn/posts/210c5b2c/"/>
+    <id>https://www.tcbcm.cn/posts/210c5b2c/</id>
+    <published>2018-11-06T10:13:06.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 Go 编程语言中，数据类型用于声明函数和变量。&lt;/p&gt;
+&lt;p&gt;数据类型的出现是为了把数据分成所需内存大小不同的数据，编程的时候需要用大数据的时候才需要申请大内存，就可以充分利用内存。&lt;/p&gt;
+&lt;h5 id=&quot;Go-语言按类别有以下几种数据类型：&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (三)：基础语法</title>
+    <link href="https://www.tcbcm.cn/posts/a5e7c61a/"/>
+    <id>https://www.tcbcm.cn/posts/a5e7c61a/</id>
+    <published>2018-11-05T14:13:03.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;上一章节我们已经了解了 Go 语言的基本组成结构，本章节我们将学习 Go 语言的基础语法。&lt;/p&gt;
+&lt;h5 id=&quot;Go-标记&quot;&gt;&lt;a href=&quot;#Go-标记&quot; class=&quot;headerlink&quot; title=&quot;Go 标记&quot;&gt;&lt;/a&gt;Go 标记&lt;/h5&gt;&lt;p&gt;Go
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (二)：结构</title>
+    <link href="https://www.tcbcm.cn/posts/f63be79c/"/>
+    <id>https://www.tcbcm.cn/posts/f63be79c/</id>
+    <published>2018-11-04T14:13:02.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在我们开始学习 Go 编程语言的基础构建模块前，让我们先来了解 Go 语言最简单程序的结构。&lt;/p&gt;
+&lt;h5 id=&quot;Go-Hello-World-实例&quot;&gt;&lt;a href=&quot;#Go-Hello-World-实例&quot; class=&quot;headerlink&quot; title=&quot;Go
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Golang (一)：基础知识</title>
+    <link href="https://www.tcbcm.cn/posts/39c551f2/"/>
+    <id>https://www.tcbcm.cn/posts/39c551f2/</id>
+    <published>2018-11-03T13:13:01.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Go 是一个开源的编程语言，它能让构造简单、可靠且高效的软件变得容易。&lt;/p&gt;
+&lt;p&gt;Go是从2007年末由Robert Griesemer, Rob Pike, Ken Thompson主持开发，后来还加入了Ian Lance Taylor, Russ
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Golang" scheme="https://www.tcbcm.cn/tags/Golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018年，新的一年，努力工作，快乐生活。</title>
+    <link href="https://www.tcbcm.cn/posts/8f3dfe1b/"/>
+    <id>https://www.tcbcm.cn/posts/8f3dfe1b/</id>
+    <published>2018-01-01T00:00:08.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2018年，新的一年，努力工作，快乐生活。&lt;/p&gt;
+&lt;p&gt;曾经读过杨石头老师的书，里面有这样一段：从个人奋斗的节点上看，你我真正的有效奋斗时间段也就30年，分别是20～30岁，30～40岁，40～50岁。&lt;/p&gt;
+&lt;h4 id=&quot;20岁靠的是努力。&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="悦读时光" scheme="https://www.tcbcm.cn/categories/%E6%82%A6%E8%AF%BB%E6%97%B6%E5%85%89/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JavaCC详解 SQL解析器</title>
+    <link href="https://www.tcbcm.cn/posts/fd4b9af6/"/>
+    <id>https://www.tcbcm.cn/posts/fd4b9af6/</id>
+    <published>2017-03-21T05:05:00.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;javacc概述&quot;&gt;&lt;a href=&quot;#javacc概述&quot; class=&quot;headerlink&quot; title=&quot;javacc概述&quot;&gt;&lt;/a&gt;javacc概述&lt;/h3&gt;&lt;hr&gt;
+&lt;p&gt;JavaCC 是一个词法分析生成器和语法分析生成器。
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Java" scheme="https://www.tcbcm.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>https时代来了，你却还一无所知？</title>
+    <link href="https://www.tcbcm.cn/posts/6c03e1a0/"/>
+    <id>https://www.tcbcm.cn/posts/6c03e1a0/</id>
+    <published>2017-03-17T12:30:00.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;现在打开各大知名网站，你有没有发现地址栏都已经加了个绿色的小锁？&lt;/p&gt;
+&lt;p&gt;是的，这就是https，这就是https的时代。&lt;/p&gt;
+&lt;h4 id=&quot;然而，你了解https吗？&quot;&gt;&lt;a href=&quot;#然而，你了解https吗？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="前端技术" scheme="https://www.tcbcm.cn/categories/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>区块链到底是什么？</title>
+    <link href="https://www.tcbcm.cn/posts/804ba325/"/>
+    <id>https://www.tcbcm.cn/posts/804ba325/</id>
+    <published>2017-01-02T23:13:01.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="后端技术" scheme="https://www.tcbcm.cn/categories/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="区块链" scheme="https://www.tcbcm.cn/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hadoop中HDFS文件下载</title>
+    <link href="https://www.tcbcm.cn/posts/f32ab55d/"/>
+    <id>https://www.tcbcm.cn/posts/f32ab55d/</id>
+    <published>2016-10-19T12:30:00.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;原理说明&quot;&gt;&lt;a href=&quot;#原理说明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.tcbcm.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="Hadoop" scheme="https://www.tcbcm.cn/tags/Hadoop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hadoop 生态圈</title>
+    <link href="https://www.tcbcm.cn/posts/44e50408/"/>
+    <id>https://www.tcbcm.cn/posts/44e50408/</id>
+    <published>2016-08-10T12:30:00.000Z</published>
+    <updated>2019-07-25T11:15:13.425Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;Hadoop 是一个能够处理海量数据的分布式系统基础软件框架，理论上能够通过增加计算节点以处理无限增长的数据，由java写成。其作者是
+        
+      
+    
+    </summary>
+    
+      <category term="大数据" scheme="https://www.tcbcm.cn/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="Hadoop" scheme="https://www.tcbcm.cn/tags/Hadoop/"/>
+    
+  </entry>
+  
+</feed>
